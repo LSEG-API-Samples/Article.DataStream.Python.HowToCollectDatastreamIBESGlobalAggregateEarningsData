@@ -1,0 +1,2 @@
+# Article.DataStream.Python.HowToCollectDatastreamIBESGlobalAggregateEarningsData
+In this article, we build the Python function Get_IBES_GA with ipywidgets Dropdowns to retrieve Institutional Brokers' Estimate System (IBES) Global Aggregate earnings data for country and regional sectors in an interactive way. With this function in CodeBook, no need to know how to code, it's as simple as click and play!
